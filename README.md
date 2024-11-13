@@ -22,7 +22,7 @@ Feel free to explore, learn, and modify the code to suit your own portfolio need
 
 ## Preview
 
-[View Live Preview](#) <!-- Replace with the link to your live website -->
+[View Live Preview](#)
 
 ## License
 
