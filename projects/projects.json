@@ -1,8 +1,8 @@
 [
   {
     "name": "Optimax Vision Care",
-    "desc": "Vision care standalone application for simplify this tasks.",
-    "image": "optimax",
+    "desc": "Vision care standalone application for simplify this vision care.",
+    "image": "/assets/images/projects/optimax.png",
     "category": "windows",
     "links": {
       "view": "https://github.com/kavindumal/1st-sem-final-GDSE",
@@ -12,7 +12,7 @@
   {
     "name": "Turtles Care",
     "desc": "software solution for Ahungalla Sea Turtles Conservation Project",
-    "image": "tutlescare",
+    "image": "/assets/images/projects/tutlescare.png",
     "category": "windows",
     "links": {
       "view": "https://github.com/sky-core/turtle-care",
@@ -22,7 +22,7 @@
   {
     "name": "Library Management System",
     "desc": "Simplify Library Management System Using Java",
-    "image": "library",
+    "image": "/assets/images/projects/library.png",
     "category": "windows",
     "links": {
       "view": "",
