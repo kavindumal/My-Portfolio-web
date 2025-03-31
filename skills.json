@@ -4,6 +4,22 @@
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
+        "name": "Flutter",
+        "icon": "https://img.icons8.com/fluency/48/flutter.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/nolan/64/express-js.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/50/python--v1.png"
+    },
+    {
+        "name": "Vite",
+        "icon": "https://img.icons8.com/fluency/48/vite.png"
+    },
+    {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
@@ -14,10 +30,6 @@
     {
         "name": "Android",
         "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
     },
     {
         "name": "TailwindCSS",
@@ -56,14 +68,6 @@
         "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
     },
     {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
-    {
         "name": "MongoDB",
         "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
     },
@@ -80,15 +84,7 @@
         "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
     {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
     }    
 ]
